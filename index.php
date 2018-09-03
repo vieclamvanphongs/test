@@ -1,4 +1,4 @@
 <?php
-echo "duc ngu";
+echo "duc ngu nhu con cho";
 ?>
 
